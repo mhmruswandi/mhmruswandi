@@ -51,7 +51,6 @@ You can find me on:
 ## 📈My Github Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=nrrarnn&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak"  />
   <img src="https://github-readme-stats.vercel.app/api?username=nrrarnn&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="150" alt="stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nrrarnn&layout=compact&theme=radical" height="150" alt="languages"  />
 </div>
